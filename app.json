@@ -7,7 +7,7 @@
         "VCBot",
         "MusicPlayer"
     ],
-    "repository": "https://github.com/Lost-In-Dark/TG-MusicPlayer",
+    "repository": " https://github.com/Digital-Himanshu/TG-MusicPlayer",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
