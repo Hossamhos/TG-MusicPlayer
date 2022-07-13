@@ -7,7 +7,7 @@
         "VCBot",
         "MusicPlayer"
     ],
-    "repository": "https://github.com/Hossamhos",
+    "repository": "https://github.com/Hossamhos/TG-MusicPlayer",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
