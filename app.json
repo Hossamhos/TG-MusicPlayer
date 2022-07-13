@@ -1,11 +1,11 @@
 {
-    "name": "TG-MusicPlayer",
+    "name": "𝗦𝗢𝗨𝗥𝗖𝗘 H𝗢𝗦𝗦𝗔𝗠",
     "description": "A Telegram Userbot to play Songs in Voice Chat",
-    "logo": "https://telegra.ph/file/12a12ad933f3f972deb61.jpg",
+    "logo": "https://telegra.ph/file/51b6e6a9cdc94f2d392eb.jpg",
     "keywords": [
         "Telegram",
         "VCBot",
-        "MusicPlayer"
+        "𝗦𝗢𝗨𝗥𝗖𝗘 H𝗢𝗦𝗦𝗔𝗠"
     ],
     "repository": "https://github.com/Hossamhos/TG-MusicPlayer",
     "env": {
